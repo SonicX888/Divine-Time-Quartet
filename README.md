@@ -1,5 +1,5 @@
 # Divine-Time-Quartet
-Undertale fan-game made in 2022 when I was 14
+Undertale fan-game made in 2022 when I was 14. It was first made on Scratch and then turned into different versions
 
 Ink Sans, Error Sans, Dream Sans and NIghtmare Sans team up to kill you. 
 
